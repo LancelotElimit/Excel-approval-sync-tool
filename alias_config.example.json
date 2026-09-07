@@ -1,0 +1,16 @@
+{
+  "skipApprovers": [
+    "Vacant",
+    "TBD"
+  ],
+  "aliases": [
+    {
+      "sourceApprover": "Name From Spreadsheet",
+      "aliases": [
+        "Name Used In System",
+        "Preferred Name",
+        "Name From Spreadsheet"
+      ]
+    }
+  ]
+}
